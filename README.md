@@ -1,7 +1,7 @@
 # Final-Year-Project
 *This is my final year project for my Statistical Data Science degree course. Please advise me and offer your guidance.*
 
-### **Addressing Class Imbalance in Credit Default Prediction with Effective Machine Learning Strategies**
+## **Addressing Class Imbalance in Credit Default Prediction with Effective Machine Learning Strategies**
 
 - Aimed to provide insights and recommendations for credit risk assessment in the banking industry.
 
