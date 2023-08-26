@@ -11,10 +11,10 @@
 
 - Developed a formula to improve model performance in class-imbalanced datasets by estimating optimal class weight adjustment based on minority class proportion.
 
-### FYP 1 Code File
+### FYP 1.ipynb
 
-- data quality checking, data visualization, exploratory data analysis
+- Exploratory Data Analysis
 
-### FYP_2 Code File
+### FYP_2.ipynb
 
-- machine learning
+- Machine Learning
