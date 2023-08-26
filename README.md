@@ -10,3 +10,11 @@
 - Significantly improved the ability to detect credit defaults by 250%, from 20% to 70%, using machine learning techniques such as adjusting class weights, resampling methods, and stacking models such as Random Forest and AdaBoost.
 
 - Developed a formula to improve model performance in class-imbalanced datasets by estimating optimal class weight adjustment based on minority class proportion.
+
+### FYP 1 Code File
+
+- data quality checking, data visualization, exploratory data analysis
+
+### FYP_2 Code File
+
+- machine learning
